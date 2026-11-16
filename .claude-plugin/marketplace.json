@@ -1,16 +1,16 @@
 {
-  "name": "no-sleep",
+  "name": "no-sleep-linux",
   "owner": {
     "name": "nicknotknack"
   },
   "metadata": {
-    "description": "Keep your Mac awake while Claude Code is running."
+    "description": "Block sleep on Linux while Claude Code is running."
   },
   "plugins": [
     {
       "name": "no-sleep",
       "source": "./",
-      "description": "Keep your Mac awake while a Claude Code session is running."
+      "description": "Linux: block sleep while a Claude Code session is running."
     }
   ]
 }

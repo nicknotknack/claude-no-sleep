@@ -2,7 +2,7 @@
   "name": "no-sleep",
   "displayName": "No Sleep",
   "version": "0.1.0",
-  "description": "Keep your Mac awake while a Claude Code session is running. Built on macOS caffeinate; each session holds its own lock and releases it when it ends.",
+  "description": "Linux: block sleep while a Claude Code session is running (systemd-inhibit).",
   "author": {
     "name": "nicknotknack"
   },
@@ -10,10 +10,10 @@
   "repository": "https://github.com/nicknotknack/claude-no-sleep",
   "license": "MIT",
   "keywords": [
-    "caffeinate",
+    "systemd-inhibit",
     "sleep",
     "awake",
     "remote-control",
-    "macos"
+    "linux"
   ]
 }
