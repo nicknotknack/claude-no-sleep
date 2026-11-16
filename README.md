@@ -11,7 +11,7 @@ claude plugin marketplace add nicknotknack/claude-no-sleep
 claude plugin install no-sleep@no-sleep
 ```
 
-works on macOS using `caffeinate`
+works on macOS using `caffeinate`. On Windows or Linux? Use the [`windows`](https://github.com/nicknotknack/claude-no-sleep/tree/windows) or [`linux`](https://github.com/nicknotknack/claude-no-sleep/tree/linux) version.
 
 ## Usage
 
