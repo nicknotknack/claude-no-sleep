@@ -1,5 +1,7 @@
 # no-sleep
 
+![no-sleep](https://raw.githubusercontent.com/nicknotknack/claude-no-sleep/assets/banner.png)
+
 Keep your Mac awake while a Claude Code session is running.
 
 Useful for Remote Control: you start a session at your desk, walk away, and keep working from your phone. Without no-sleep the Mac falls asleep after a few minutes and the session drops.
