@@ -1,0 +1,16 @@
+{
+  "name": "no-sleep",
+  "owner": {
+    "name": "nicknotknack"
+  },
+  "metadata": {
+    "description": "Keep your Mac awake while Claude Code is running."
+  },
+  "plugins": [
+    {
+      "name": "no-sleep",
+      "source": "./",
+      "description": "Keep your Mac awake while a Claude Code session is running."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "no-sleep",
+  "displayName": "No Sleep",
+  "version": "0.1.0",
+  "description": "Keep your Mac awake while a Claude Code session is running. Built on macOS caffeinate; each session holds its own lock and releases it when it ends.",
+  "author": {
+    "name": "nicknotknack"
+  },
+  "homepage": "https://github.com/nicknotknack/claude-no-sleep",
+  "repository": "https://github.com/nicknotknack/claude-no-sleep",
+  "license": "MIT",
+  "keywords": [
+    "caffeinate",
+    "sleep",
+    "awake",
+    "remote-control",
+    "macos"
+  ]
+}
